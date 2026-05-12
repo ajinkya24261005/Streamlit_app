@@ -457,9 +457,7 @@ services:
 
 ---
 
-## License
 
-MIT License
 
 ## Citation
 
